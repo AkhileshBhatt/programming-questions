@@ -26,7 +26,7 @@ https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&pla
                           
 */
 
-// n is number of steps, s is the hike consisting of all the steps.
+// "n" is number of steps, "s" is the hike consisting of all the steps.
 function countingValleys(n, s) {
 
     // Variables required
