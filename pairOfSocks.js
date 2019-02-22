@@ -16,7 +16,7 @@ https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playli
                 - Move to the socks next to the matched one(n+2th position)
 */
 
-
+// "n" is number of socks, "ar" is carton/pile of socks
 function sockMerchant(n, ar) {
 
     const sortedArrayOfSocks = ar.sort();   // sorting the given socks
