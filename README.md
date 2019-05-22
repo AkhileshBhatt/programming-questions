@@ -1,4 +1,4 @@
-#programming-questions
+# programming-questions
 Solved frequently asked programming questions
 
 1) arraysLeftRotation.js          : Finding resultent array on performing 'd' number of Left Rotation on a given array.
